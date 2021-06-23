@@ -1,0 +1,1 @@
+Download lvgl V7.11 from lvgl.io, and extract into the /lvgl directory
